@@ -2,6 +2,8 @@
 
 // ** Josephus Problem ** //
 
+// ** Solve this Question using the IBH method ** //
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
