@@ -3,7 +3,7 @@ package DP;
 import java.util.Arrays;
 
 
-// ** 0/1 knapsack problem => solve using DP -> Recursion + Memorization ** //
+// ** 0/1 knapsack problem => solve using Top-down DP -> Recursion + Memorization ** //
 
 public class tem2 {
 
